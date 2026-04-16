@@ -23,4 +23,4 @@ and cybersecurity.
 - Tested internet connectivity using 'ping google.com'
 - Verified system IP address using 'ip a'
 
-## Screenshots
+
